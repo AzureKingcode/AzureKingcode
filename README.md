@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzureKingcode
+- 👋 Hi, I’m @AzureCode
 - 👀 I’m interested in codeing and hacker
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on better personal 
